@@ -4,7 +4,7 @@ Chat Application is basic application which is built using the Flutter.
 
 ### Show some love :heart: and star the repo to support the project
 
-If you had like the project pls hit the start :+1: icon.
+If you had like the project pls hit the star :+1: icon.
 
 ### Working 
 
@@ -12,7 +12,7 @@ The Live Working of the Application can be found on this [link](https://irahulcs
 
 ### Live Video Of Working Project:
 
- [<img src = "/assets/chatapplication.gif" width=500 height:500>]
+ [<img src = "/assets/chatapplication.gif" width=1000 height=1000>]
 
 
 ### Created with :heart:
