@@ -12,7 +12,9 @@ The Live Working of the Application can be found on this [link](https://irahulcs
 
 ### Live Video Of Working Project:
 
- [<img src = "/assets/chatapplication.gif" width=1000 height=500>]
+ <img src = "/assets/chatapplication.gif" width=1000 height=350>
+
+ Sorry for the quality of the GIF :pray:
 
 
 ### Created with :heart:
