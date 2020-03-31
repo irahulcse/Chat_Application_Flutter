@@ -1,16 +1,24 @@
-# chat_application_flutter
+# chat_application_flutter :boom:
 
-A new Flutter project.
+Chat Application is basic application which is built using the Flutter.
 
-## Getting Started
+### Show some love :heart: and star the repo to support the project
 
-This project is a starting point for a Flutter application.
+If you had like the project pls hit the start :+1: icon.
 
-A few resources to get you started if this is your first Flutter project:
+### Working 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The Live Working of the Application can be found on this [link](https://irahulcse.github.io/Chat_Application_Flutter/#/) :100: 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Live Video Of Working Project:
+
+ [<img src = "/assets/chatapplication.gif" width=240>]
+
+
+### Created with :heart:
+
+[Rahul Chandra](https://github.com/irahulcse) ([@imthepk](https://www.twitter.com/1rahulchandra)) ([Linkedin](https://www.linkedin.com/in/rahul-chandra-a8371b11b/))
+
+### Testing
+
+Testing of the Project is Done :heavy_check_mark:
