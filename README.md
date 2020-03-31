@@ -22,3 +22,8 @@ The Live Working of the Application can be found on this [link](https://irahulcs
 ### Testing
 
 Testing of the Project is Done :heavy_check_mark:
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.dev/).
