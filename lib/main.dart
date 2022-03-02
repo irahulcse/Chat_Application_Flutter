@@ -8,6 +8,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new MaterialApp(
       title: 'New Chat App',
+      debugShowCheckedModeBanner: false,
       home: new HomePage(),
     );
   }
